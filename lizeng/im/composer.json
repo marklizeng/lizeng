@@ -1,0 +1,11 @@
+{
+    "name": "lizeng/im",
+    "description": "Chat system based on swoole",
+    "authors": [
+        {
+            "name": "lizeng",
+            "email": "1075173642@qq.com"
+        }
+    ],
+    "require": {}
+}
